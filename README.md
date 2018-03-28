@@ -3,7 +3,14 @@
 Technology used -: PHP 5.5 Procedural, MySQL <br>
 For runnig the project successfull on your local system use XAMPP 5.5 <br>
 XAMPP 5.5 is fully compatible with it <br>
-<a href="https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.5.38/xampp-win32-5.5.38-3-VC11-installer.exe/download"> Click to download XAMPP 5.5 </a>
+<a href="https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.5.38/xampp-win32-5.5.38-3-VC11-installer.exe/download" 
+target ="_blank"> Click to download XAMPP 5.5 for windows</a>
+
+<a href="https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/5.5.38/xampp-linux-x64-5.5.38-3-installer.run/download" 
+target ="_blank"> Click to download XAMPP 5.5 for Linux</a>
+
+<a href="https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.5.38/xampp-osx-5.5.38-3-installer.dmg/download" 
+target ="_blank"> Click to download XAMPP 5.5 for Mac OS X</a>
 
 This project has 3 Type of Users <br>
 1. Admin <br>
